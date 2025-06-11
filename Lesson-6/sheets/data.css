@@ -1,0 +1,23 @@
+
+p{
+        font-family: arial;
+    }
+    .one{
+        font-size: 30px;
+        margin-bottom: 5px;
+        margin-top: 0px;
+        
+    }
+    .usd{
+        color: rgb(141, 141, 141);
+    }
+    .two{
+        color: rgb(4, 216, 4);
+        margin-top: 0px;
+    }
+    .three{
+        color: rgb(141, 141, 141);
+    }
+    .red{
+        color: rgb(190, 36, 36);
+    }
